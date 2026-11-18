@@ -1,0 +1,64 @@
+# program: Hybrid plan
+# start: 2026-11-16
+# phase: 1 | Re-entry | Start light, find your working weights
+# phase: 2-7 | Build
+# phase: 8-12 | Strength
+# deload: 7, 12
+Session,Day,Group,Exercise,Weeks,Sets,Reps,Kg,RPE,Rest,Per,Notes
+Gym A: Upper body,Mon,,Wrist rehab: supinated front raise + pronated lateral raise,1-12,2,12-15,,6,45,,Each movement. Physio. Dumbbell held at one end. Light weight.
+Gym A: Upper body,Mon,,Bench press,1-7,,"8,8,8,8+",55-60,8,150,,Wraps on the AMRAP set
+Gym A: Upper body,Mon,,Bench press,8-12,,"5,5,5,5+",,8,180,,Wraps on the AMRAP set
+Gym A: Upper body,Mon,,Bent-over barbell row,1-7,,"8,8,8,8+",55-60,8,150,,
+Gym A: Upper body,Mon,,Bent-over barbell row,8-12,,"5,5,5,5+",,8,180,,
+Gym A: Upper body,Mon,,Pull-ups,1-7,4,,BW,8-9,120,,1-2 reps short of failure
+Gym A: Upper body,Mon,,Pull-ups,8-12,4,8,BW,8-9,150,,Add weight once you hit 4 x 8
+Gym A: Upper body,Mon,A,"Incline dumbbell press, semi-neutral grip",1-7,3,8-12,20-22,8,90,hand,
+Gym A: Upper body,Mon,A,"Incline dumbbell press, semi-neutral grip",8-12,3,8-10,,8,90,hand,
+Gym A: Upper body,Mon,A,Lateral raise,1-12,3,12-15,6,9,60,hand,
+Gym A: Upper body,Mon,B,Dumbbell curl,1-12,3,10-12,10,9,60,hand,
+Gym A: Upper body,Mon,B,"Overhead triceps extension, cable rope",1-7,3,10-12,15-20,9,60,,
+Gym A: Upper body,Mon,B,"Overhead triceps extension, cable rope",8-12,3,8-12,,9,60,,
+Gym A: Upper body,Mon,C,Suitcase carry,1-7,3,30m,20-24,8,60,side,One side at a time
+Gym A: Upper body,Mon,C,Suitcase carry,8-12,3,40m,,8,60,side,One side at a time
+Gym A: Upper body,Mon,C,Side plank on the forearm,1-7,3,30-40s,BW,8,45,side,
+Gym A: Upper body,Mon,C,Side plank on the forearm,8-12,3,45s,BW,8,45,side,Top leg raised
+Gym B: Legs and plyos,Tue,,"Box jump, step down",4-7,3,5,,,90,,"Plyo. Low box (40-50 cm). Step down, don't jump down."
+Gym B: Legs and plyos,Tue,,"Box jump, step down",8-12,3,5,,,90,,Plyo. Higher box.
+Gym B: Legs and plyos,Tue,,Pogo hops,6-7,2,15,BW,,60,,Plyo
+Gym B: Legs and plyos,Tue,,Pogo hops,8-12,3,20,BW,,60,,Plyo
+Gym B: Legs and plyos,Tue,,Zercher squat,1-2,,"8,8,8",60,8,150,,
+Gym B: Legs and plyos,Tue,,Zercher squat,3-7,,"8,8,8,8+",,8,150,,
+Gym B: Legs and plyos,Tue,,Zercher squat,8-12,,"5,5,5,5+",,8,180,,
+Gym B: Legs and plyos,Tue,,Romanian deadlift,1-7,3,8-10,60-70,8,120,,
+Gym B: Legs and plyos,Tue,,Trap-bar deadlift,8-12,,"5,5,5+",100-110,8,180,,
+Gym B: Legs and plyos,Tue,,Bulgarian split squat,1-7,3,8-10,10-12,8,90,leg,Dumbbell weight is per hand
+Gym B: Legs and plyos,Tue,,Bulgarian split squat,8-12,3,6-8,,8,90,leg,Dumbbell weight is per hand
+Gym B: Legs and plyos,Tue,A,"Seated calf raise, slow (soleus)",1-7,3,8-12,30-40,8,60,,"3 s up, 3 s down"
+Gym B: Legs and plyos,Tue,A,"Seated calf raise, slow (soleus)",8-12,3,6-10,,8,60,,"Heavier, same tempo"
+Gym B: Legs and plyos,Tue,A,Tibialis raise,1-7,3,15-20,BW,8,45,,
+Gym B: Legs and plyos,Tue,A,Tibialis raise,8-12,3,15-20,,8,45,,Add a plate
+Gym B: Legs and plyos,Tue,,"Single-leg calf raise, straight knee",1-12,3,10-15,BW,8,60,leg,
+Gym C: Upper body + single-leg,Thu,,Wrist rehab: supinated front raise + pronated lateral raise,1-12,2,12-15,,6,45,,Each movement. Physio. Dumbbell held at one end. Light weight.
+Gym C: Upper body + single-leg,Thu,,Standing overhead press,1-7,,"8,8,8,8+",32.5-35,8,150,,Wraps on the AMRAP set
+Gym C: Upper body + single-leg,Thu,,Standing overhead press,8-12,,"5,5,5,5+",,8,180,,Wraps on the AMRAP set
+Gym C: Upper body + single-leg,Thu,,Chin-ups,1-12,3,,BW,8-9,120,,1-2 reps short of failure
+Gym C: Upper body + single-leg,Thu,,Dips,1-7,3,6-10,BW,8,120,,Swap: neutral-grip DB floor press if the wrist complains
+Gym C: Upper body + single-leg,Thu,,Dips,8-12,3,6-8,BW,8,120,,Add weight once you hit 3 x 10. Swap: neutral-grip DB floor press if the wrist complains
+Gym C: Upper body + single-leg,Thu,,Single-leg Romanian deadlift (dumbbell),1-12,3,8-10,14-16,8,90,leg,
+Gym C: Upper body + single-leg,Thu,,One-arm dumbbell row,1-7,3,10-12,24-26,8,90,arm,
+Gym C: Upper body + single-leg,Thu,,One-arm dumbbell row,8-12,3,8-10,,8,90,arm,
+Gym C: Upper body + single-leg,Thu,A,Lateral raise,1-12,3,12-15,6,9,60,hand,
+Gym C: Upper body + single-leg,Thu,A,Face pull or rear-delt fly,1-12,3,15,15,9,60,,
+Gym C: Upper body + single-leg,Thu,,Bent-knee single-leg calf hold (soleus),1-7,3,30-45s,BW,8,45,leg,
+Gym C: Upper body + single-leg,Thu,,Bent-knee single-leg calf hold (soleus),8-12,3,45s,,8,45,leg,Holding a dumbbell
+Gym C: Upper body + single-leg,Thu,B,Hanging leg raise,1-7,3,8-12,BW,8,60,,
+Gym C: Upper body + single-leg,Thu,B,Hanging leg raise,8-12,3,10-15,BW,8,60,,
+Gym C: Upper body + single-leg,Thu,B,Cable crunch,1-7,3,10-15,30-40,8,60,,
+Gym C: Upper body + single-leg,Thu,B,Cable crunch,8-12,3,10-15,,8,60,,Heavier
+"Gym D: Arms, shoulders, abs (optional)",Wed,A,Single-arm cable lateral raise,1-12,3,12-20,5-7.5,9,60,arm,
+"Gym D: Arms, shoulders, abs (optional)",Wed,A,Rear-delt fly,1-12,3,15-20,6-8,9,60,hand,
+"Gym D: Arms, shoulders, abs (optional)",Wed,B,Cable fly,1-12,3,12-15,10-15,9,60,side,
+"Gym D: Arms, shoulders, abs (optional)",Wed,B,Cable rope pushdown,1-12,3,10-15,25-30,9,60,,
+"Gym D: Arms, shoulders, abs (optional)",Wed,C,Hammer curl,1-12,3,10-12,12,9,60,hand,
+"Gym D: Arms, shoulders, abs (optional)",Wed,C,Ab wheel rollout,1-7,3,8-12,BW,8,60,,From the knees
+"Gym D: Arms, shoulders, abs (optional)",Wed,C,Ab wheel rollout,8-12,3,8-12,BW,8,60,,Longer range

@@ -1,0 +1,9 @@
+# program: My program
+# start: 2026-01-05
+# phase: 1-4 | Base
+# deload: 4
+Session,Day,Group,Exercise,Weeks,Sets,Reps,Kg,RPE,Rest,Per,Notes
+Push day,Mon,,Bench press,,,"5,5,5,5+",80,8,180,,Last set AMRAP
+Push day,Mon,A,Incline dumbbell press,,3,8-12,24,8,90,hand,
+Push day,Mon,A,Lateral raise,,3,12-15,8,9,60,hand,
+Push day,Mon,,Plank,,3,45s,BW,,45,,
